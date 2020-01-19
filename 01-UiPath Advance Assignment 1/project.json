@@ -1,6 +1,6 @@
 {
-  "name": "UiPath-Advanced-Training-Assignment-1",
-  "description": "UiPath-Advanced-Training-Assignment-1",
+  "name": "UiPath-Learn",
+  "description": "Various Examples & Assigments to Learn UiPath in Better Ways",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
